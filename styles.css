@@ -188,6 +188,7 @@ body {
 
 button:hover {
     cursor: pointer;
+    background-color: hsl(241, 81%, 54%);
 }
 
 .attribution {
